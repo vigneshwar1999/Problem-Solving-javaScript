@@ -28,4 +28,4 @@ function findNxtPalindrome(num) {
   }
 }
 
-console.log(findNxtPalindrome(121));
+console.log(findNxtPalindrome(122)); // It Will log 131 -> Which is next palindrome number.
